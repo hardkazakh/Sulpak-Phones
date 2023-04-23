@@ -1,2 +1,6 @@
 # Sulpak-Phones
-Sulpak Phones: Analysis and Visualization
+The mini project was completed in 2021:
+  - Parsing
+  - Analysis
+  - Visualization
+  - Machine Learning
